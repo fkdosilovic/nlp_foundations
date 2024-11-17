@@ -29,9 +29,11 @@ Collection of the most important books and (seminal) papers for the modern NLP.
 
 1. [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/) [^1]
 2. [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) [^2]
+3. [Dive into Deep Learning](https://d2l.ai) [^3]
 
 [^1]: Excellent introduction to NLP.
 [^2]: Excellent, in-depth introduction to modern decoder-based large language models.
+[^3]: Great introduction to deep learning with a few chapters on NLP.
 
 ## Embeddings
 
