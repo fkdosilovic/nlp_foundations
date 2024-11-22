@@ -117,9 +117,10 @@ Collection of the most important books and (seminal) papers for the modern NLP.
 
 ## Large Language Models
 
-1. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
-2. [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
-3. [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
+1. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (RAG paper)
+2. [In-Context Retrieval-Augmented Language Models](https://arxiv.org/abs/2302.00083)
+3. [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
+4. [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 
 ## Efficient Transformers
 
@@ -151,3 +152,6 @@ TODO
 
 1. [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 2. [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
+3. [Universal Intelligence: A Definition of Machine Intelligence](https://arxiv.org/abs/0712.3329)
+4. [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
+5. [Situational Awareness: The Decade Ahead](https://situational-awareness.ai/)
